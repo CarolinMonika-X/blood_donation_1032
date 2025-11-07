@@ -4,7 +4,6 @@
 /blood-donation-frontend/node_modules
 
 # Environment variables
-.env
 
 # Build artifacts
 /build
